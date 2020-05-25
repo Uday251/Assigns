@@ -1,4 +1,4 @@
-public class EmpWageBuilderFor {
+public class EmpDailyWageBuilder {
 
 // constants
 
